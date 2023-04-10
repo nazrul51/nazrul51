@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋, my name is Nazrul Islam
+## I am a Web Devloper
+
+Skills:  HTML / CSS
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Nazrul_Islam_Romjan)  
+
+
 
 
 **nazrul51/nazrul51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
